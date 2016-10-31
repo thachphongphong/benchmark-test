@@ -1,0 +1,27 @@
+{
+  "name": "javascript_algorithm_challenge",
+  "version": "1.0.0",
+  "description": "JavaScript_Algorithm_Challenge",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thachphongphong/benchmark-test.git"
+  },
+  "keywords": [
+    "benchmark-test"
+  ],
+  "author": "Linh Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thachphongphong/benchmark-test/issues"
+  },
+  "homepage": "https://github.com/thachphongphong/benchmark-test#readme",
+  "dependencies": {
+    "benchmark": "^2.1.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
